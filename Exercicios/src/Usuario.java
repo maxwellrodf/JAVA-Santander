@@ -2,6 +2,8 @@ public class Usuario {
      
     public static void main(String[] args) {
         
+        //EXEMPLO DE POO PROJETO SMARTTV
+        
         SmartTv smartTv = new SmartTv();
 
 
@@ -15,7 +17,7 @@ public class Usuario {
         smartTv.mudarCanal(13);
         System.out.println(" Canal " + smartTv.canal);
 
-        
+
 
         
 

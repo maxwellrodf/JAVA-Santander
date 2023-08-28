@@ -1,4 +1,5 @@
 public class SmartTv {
+    //EXEMPLO DE POO PROJETO SMARTTV
 
     //ATRIBUTOS
     boolean ligada = false;
