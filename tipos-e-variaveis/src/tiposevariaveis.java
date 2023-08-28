@@ -1,11 +1,14 @@
-public class tiposevariaveis {
+public class MinhaClasse {
     
     public static void main(String[] args) {
         
-        String nome = "Maxwell";
-        int idade = 34;
+        double n1 = 0;
+        double n2 = 10;
+        double soma = 0;
 
-        System.out.println(" Meu nome é " + nome + " e minha idade é " + idade + " anos ");
+        soma = n1 + n2;
+
+        System.out.println(" A soma é: " + soma);
         
     }
 }
